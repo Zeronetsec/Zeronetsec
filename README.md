@@ -2,18 +2,7 @@
 
 <h1 align="center">Zeronetsec</h1>
 <div align="center">
-<div style="
-background-color:#1a1b26;
-color:#7aa2f7;
-padding:3px 10px;
-border-radius:8px;
-font-family:monospace;
-display:inline-block;
-">
-
-CLI Tools Builder • Systems Explorer • Cybersecurity Enthusiast
-
-</div>
+  <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code>
 </div>
 
 ## About Me
