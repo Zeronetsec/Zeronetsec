@@ -2,7 +2,7 @@
 
 <h1 align="center">Zeronetsec</h1>
 <div align="center">
-  <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code>
+    <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code>
 </div>
 
 ## About Me
@@ -22,9 +22,13 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
 <details>
 <summary>Show Projects</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Xrao&theme=tokyonight" width="350" />
+<a href="https://github.com/Zeronetsec/Xrao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Xrao&theme=tokyonight" width="350" />
+</a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Rubytask&theme=tokyonight" width="350" />
+<a href="https://github.com/Zeronetsec/Rubytask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Rubytask&theme=tokyonight" width="350" />
+</a>
 <br>
 </details>
 
