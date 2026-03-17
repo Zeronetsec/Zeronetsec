@@ -30,6 +30,10 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Rubytask&theme=tokyonight" width="350" />
 </a>
 <br>
+<a href="https://github.com/Zeronetsec/Chprompt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeronetsec&repo=Chprompt&theme=tokyonight" width="350" />
+</a>
+<br>
 </details>
 
 ## Languages
