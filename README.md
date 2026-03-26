@@ -11,7 +11,7 @@ I build **CLI tools**, automate workflows, and explore systems. <br>
 Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from curiosity**.
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="350" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="350" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeronetsec&theme=tokyonight" width="350" />
 
@@ -19,7 +19,7 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
 <img src="https://skillicons.dev/icons?i=vscode,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github" width="350" />
 
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="350" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="350" />
 
 ## Connect With Me
 Github: [Zeronetsec](https://github.com/Zeronetsec)
