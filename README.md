@@ -16,7 +16,7 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeronetsec&theme=tokyonight" width="350" />
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=vscode,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github" width="350" />
+<img src="https://skillicons.dev/icons?i=vscode,raspberrypi,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github&theme=dark" width="350" />
 
 ## Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="350" />
