@@ -21,7 +21,4 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
 ## Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="350" />
 
-## Connect With Me
-Github: [Zeronetsec](https://github.com/Zeronetsec)
-
 <!-- Copyright (c) 2026 Zeronetsec -->
