@@ -6,6 +6,7 @@
 </div>
 
 <p align="center">
+    <br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="235" />
 </p>
 
@@ -19,7 +20,7 @@ Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from c
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeronetsec&theme=tokyonight" width="300" />
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeronetsec&area=true&hide_border=true&theme=tokyonight" width="300" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeronetsec&theme=tokyonight" width="300" />
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github&theme=dark" width="300" />
