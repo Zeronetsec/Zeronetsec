@@ -16,7 +16,7 @@ I build **CLI tools**, automate workflows, and explore systems. <br>
 Sometimes it's **cybersecurity**. Sometimes it's just **useful tools born from curiosity**.
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github&theme=dark" width="300" />
