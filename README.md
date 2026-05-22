@@ -2,7 +2,7 @@
 
 <h1 align="center">Zeronetsec</h1>
 <div align="center">
-    <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code>
+    <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code> • <code>Junior Developer</code>
 </div>
 
 <p align="center">
