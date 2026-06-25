@@ -20,12 +20,12 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 
 ## Skills
 <p align="left">
-    <img src=".icons/devicon/android.svg" width="20" />
+    <img src=".icons/gilbarbara/android.svg" width="20" />
     <img src=".icons/devicon/linux.svg" width="20" />
     <img src=".icons/devicon/raspberrypi.svg" width="20" />
     <img src=".icons/gilbarbara/ubuntu.svg" width="20" />
     <img src=".icons/devicon/debian.svg" width="20" />
-    <img src=".icons/devicon/kali.svg" width="20" />
+    <img src=".icons/devicon/kali.svg" width="22" />
     <img src=".icons/kate/kate.svg" width="20" height="21" />
     <img src=".icons/devicon/git.svg" width="20" />
     <img src=".icons/devicon/github.svg" width="20" />
