@@ -41,7 +41,7 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 <p align="left">
     <img src=".icons/devicon/python.svg" width="20" />
     <img src=".icons/skillicons/bash.svg" width="20" />
-    <img src=".icons/devicon/perl.svg" width="20" />
+    <img src=".icons/skillicons/perl.svg" width="20" />
     <img src=".icons/devicon/ruby.svg" width="20" />
     <img src=".icons/devicon/lua.svg" width="20" />
     <img src=".icons/devicon/php.svg" width="20" />
