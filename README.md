@@ -18,7 +18,8 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 ## GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 
-## Skills
+## Tech Stack
+### Operating System:
 <p align="left">
     <img src=".icons/devicon/android.svg" width="20" />
     <img src=".icons/devicon/linux.svg" width="20" />
@@ -26,10 +27,18 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
     <img src=".icons/gilbarbara/ubuntu.svg" width="20" />
     <img src=".icons/devicon/debian.svg" width="20" />
     <img src=".icons/skillicons/kali.svg" width="20" />
-    <img src=".icons/kate/kate.svg" width="20" height="21" />
+</p>
+
+### Toolkit:
+<p align="left">
     <img src=".icons/devicon/git.svg" width="20" />
     <img src=".icons/skillicons/github.svg" width="20" />
     <img src=.icons/devicon/gitlab.svg width="20" />
+    <img src=".icons/kate/kate.svg" width="20" height="23" />
+</p>
+
+### Languages:
+<p align="left">
     <img src=".icons/devicon/python.svg" width="20" />
     <img src=".icons/skillicons/bash.svg" width="20" />
     <img src=".icons/devicon/perl.svg" width="20" />
@@ -47,7 +56,7 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
     <img src=".icons/gilbarbara/clang.svg" width="20" />
 </p>
 
-## Languages
+## Languages Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="300" />
 
 <!-- Copyright (c) 2026 Zeronetsec -->
