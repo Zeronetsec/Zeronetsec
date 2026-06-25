@@ -39,7 +39,7 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
     <img src=".icons/devicon/javascript.svg" width="20" />
     <img src=".icons/devicon/html.svg" width="20" />
     <img src=".icons/devicon/css.svg" width="20" />
-    <img src=".icons/devicon/golang.svg" width="20" />
+    <img src=".icons/skillicons/golang.svg" width="20" />
     <img src=".icons/devicon/dart.svg" width="20" />
     <img src=".icons/dlang/dlang.svg" width="20" />
     <img src=".icons/devicon/java.svg" width="20" />
