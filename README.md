@@ -19,7 +19,33 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=vscode,raspberrypi,linux,debian,kali,ubuntu,python,golang,ruby,bash,html,css,javascript,nodejs,php,lua,perl,java,git,github&theme=dark" width="300" />
+<p align="left">
+    <img src=".icons/devicon/android.svg" width="20" />
+    <img src=".icons/devicon/linux.svg" width="20" />
+    <img src=".icons/devicon/raspberrypi.svg" width="20" />
+    <img src=".icons/gilbarbara/ubuntu.svg" width="20" />
+    <img src=".icons/devicon/debian.svg" width="20" />
+    <img src=".icons/devicon/kali.svg" width="20" />
+    <img src=".icons/kate/kate.svg" width="20" height="21" />
+    <img src=".icons/devicon/git.svg" width="20" />
+    <img src=".icons/devicon/github.svg" width="20" />
+    <img src=.icons/devicon/gitlab.svg width="20" />
+    <img src=".icons/devicon/python.svg" width="20" />
+    <img src=".icons/devicon/bash.svg" width="20" />
+    <img src=".icons/devicon/perl.svg" width="20" />
+    <img src=".icons/devicon/ruby.svg" width="20" />
+    <img src=".icons/devicon/lua.svg" width="20" />
+    <img src=".icons/devicon/php.svg" width="20" />
+    <img src=".icons/devicon/javascript.svg" width="20" />
+    <img src=".icons/devicon/html.svg" width="20" />
+    <img src=".icons/devicon/css.svg" width="20" />
+    <img src=".icons/devicon/golang.svg" width="20" />
+    <img src=".icons/devicon/dart.svg" width="20" />
+    <img src=".icons/dlang/dlang.svg" width="20" />
+    <img src=".icons/devicon/java.svg" width="20" />
+    <img src=".icons/devicon/zig.svg" width="20" />
+    <img src=".icons/gilbarbara/clang.svg" width="20" />
+</p>
 
 ## Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeronetsec&layout=compact&theme=tokyonight" width="300" />
