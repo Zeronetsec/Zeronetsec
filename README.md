@@ -28,7 +28,7 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
     <img src=".icons/devicon/kali.svg" width="20" />
     <img src=".icons/kate/kate.svg" width="20" height="21" />
     <img src=".icons/devicon/git.svg" width="20" />
-    <img src=".icons/gilbarbara/github.svg" width="20" />
+    <img src=".icons/github/github.svg" width="20" />
     <img src=.icons/devicon/gitlab.svg width="20" />
     <img src=".icons/devicon/python.svg" width="20" />
     <img src=".icons/devicon/bash.svg" width="20" />
