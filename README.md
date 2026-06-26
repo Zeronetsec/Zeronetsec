@@ -19,41 +19,39 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 
 ## Tech Stack
-### Operating System:
 <p align="left">
-    <img src=".icons/devicon/android.svg" width="20" />
-    <img src=".icons/devicon/linux.svg" width="20" />
-    <img src=".icons/devicon/raspberrypi.svg" width="20" />
-    <img src=".icons/gilbarbara/ubuntu.svg" width="20" />
-    <img src=".icons/devicon/debian.svg" width="20" />
-    <img src=".icons/skillicons/kali.svg" width="20" />
+    <img src=".icons/devicon/android.svg" width="15" />
+    <img src=".icons/devicon/linux.svg" width="15" />
+    <img src=".icons/devicon/raspberrypi.svg" width="15" />
+    <img src=".icons/gilbarbara/ubuntu.svg" width="15" />
+    <img src=".icons/devicon/debian.svg" width="15" />
+    <img src=".icons/skillicons/kali.svg" width="15" />
 </p>
 
-### Toolkit:
 <p align="left">
-    <img src=".icons/devicon/git.svg" width="20" />
-    <img src=".icons/skillicons/github.svg" width="20" />
-    <img src=.icons/devicon/gitlab.svg width="20" />
-    <img src=".icons/kate/kate.svg" width="20" height="23" />
+    <img src=".icons/devicon/git.svg" width="15" />
+    <img src=".icons/skillicons/github.svg" width="15" />
+    <img src=.icons/devicon/gitlab.svg width="15" />
+    <img src=".icons/kate/kate.svg" width="15" height="16" />
+    <img src=".icons/magisk/magisk.svg" width="15" height="16" />
 </p>
 
-### Languages:
 <p align="left">
-    <img src=".icons/devicon/python.svg" width="20" />
-    <img src=".icons/skillicons/bash.svg" width="20" />
-    <img src=".icons/skillicons/perl.svg" width="20" />
-    <img src=".icons/devicon/ruby.svg" width="20" />
-    <img src=".icons/devicon/lua.svg" width="20" />
-    <img src=".icons/devicon/php.svg" width="20" />
-    <img src=".icons/devicon/javascript.svg" width="20" />
-    <img src=".icons/devicon/html.svg" width="20" />
-    <img src=".icons/devicon/css.svg" width="20" />
-    <img src=".icons/skillicons/golang.svg" width="20" />
-    <img src=".icons/devicon/dart.svg" width="20" />
-    <img src=".icons/dlang/dlang.svg" width="20" />
-    <img src=".icons/devicon/java.svg" width="20" />
-    <img src=".icons/devicon/zig.svg" width="20" />
-    <img src=".icons/gilbarbara/clang.svg" width="20" />
+    <img src=".icons/devicon/python.svg" width="15" />
+    <img src=".icons/skillicons/bash.svg" width="15" />
+    <img src=".icons/skillicons/perl.svg" width="15" />
+    <img src=".icons/devicon/ruby.svg" width="15" />
+    <img src=".icons/devicon/lua.svg" width="15" />
+    <img src=".icons/devicon/php.svg" width="15" />
+    <img src=".icons/devicon/javascript.svg" width="15" />
+    <img src=".icons/devicon/html.svg" width="15" />
+    <img src=".icons/devicon/css.svg" width="15" />
+    <img src=".icons/skillicons/golang.svg" width="15" />
+    <img src=".icons/devicon/dart.svg" width="15" />
+    <img src=".icons/dlang/dlang.svg" width="15" />
+    <img src=".icons/devicon/java.svg" width="15" />
+    <img src=".icons/devicon/zig.svg" width="15" />
+    <img src=".icons/gilbarbara/clang.svg" width="15" />
 </p>
 
 ## Languages Stats
