@@ -3,9 +3,9 @@
 <h1 align="center">Zeronetsec</h1>
 <div align="center">
     <code>CLI Addict</code> • <code>CLI Tools Builder</code> • <code>Systems Explorer</code> • <code>Cybersecurity Enthusiast</code>
-    </br>
+    </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
-    </br>
+    </br></br>
     <code>“Learning to code starting from: 2025-09-29”</code>
 </div>
 
