@@ -14,7 +14,7 @@ Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, j
 
 <code>“Learning to code starting from: 2025-09-29”</code>
 
-## GitHub Stats<img src="gif.gif" width="40" />
+## GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
