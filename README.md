@@ -10,11 +10,12 @@
 ## Introduction
 Honestly, I think I’m still a long way from calling myself a programmer. </br>
 I’m just someone who loves colorful code and enjoys building functional things (at least, functional for me). </br>
-Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, just minor tools born purely out of curiosity.
+Sometimes it's a cybersecurity toolkit, sometimes automation, and other times, just minor tools born purely out of curiosity. </br>
 
 <code>“Learning to code starting from: 2025-09-29”</code>
 
 ## GitHub Stats
+<img src="ayaya-club-ayaya.gif" width="35" /> </br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=380&langs_count=999&theme=tokyonight" width="300" />
 
