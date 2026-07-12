@@ -30,7 +30,7 @@ function install::installer() {
     install::getinstall \
         "
             command ln -sf \
-                ${opt}/zeronetsec/zeronetsec \
+                ${opt}/zeronetsec/zeronetsec.py \
                 ${bin}/zeronetsec
         " \
         "Symlink: ${GG}${opt}/zeronetsec/zeronetsec.py ${DG}-> ${GG}${bin}/zeronetsec${N}"
