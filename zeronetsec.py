@@ -1,6 +1,5 @@
-# https://github.com/Zeronetsec/Zeronetsec
-
 #!/usr/bin/env python3
+# https://github.com/Zeronetsec/Zeronetsec
 
 import sys
 from console import console
