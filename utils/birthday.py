@@ -6,7 +6,7 @@ from utils.color import Color
 class Birthday:
     @staticmethod
     def execute(*args):
-        birth_date = "07-13"
+        birth_date = "09-29"
         today = datetime.now().strftime("%m-%d")
         
         if today == birth_date:
