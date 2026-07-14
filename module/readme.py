@@ -22,7 +22,7 @@ class Readme:
 
         try:
             subprocess.run(
-                ["glow", readme_path],
+                ["glow", readme_path, "-w", "0"],
                 check=True,
             )
         except FileNotFoundError:
