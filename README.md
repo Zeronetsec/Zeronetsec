@@ -2,10 +2,10 @@
 
 <h1 align="center">Zeronetsec</h1>
 <div align="center">
-    <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&logoColor=00cc00" width="70" />
-    <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&logoColor=cccc00" width="100" />
-    <img src="https://img.shields.io/badge/Cybersecurity-Hobby-blue?style=square&logo=kalilinux&logoColor=0099ff" width="110" />
-    <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&logoColor=00cc00" width="100" />
+    <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&logoColor=00cc00" width="85" />
+    <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&logoColor=cccc00" width="115" />
+    <img src="https://img.shields.io/badge/Cybersecurity-Hobby-blue?style=square&logo=kalilinux&logoColor=0099ff" width="125" />
+    <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&logoColor=00cc00" width="115" />
     </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
     </br></br>
