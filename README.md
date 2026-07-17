@@ -14,7 +14,7 @@
 ## Introduction
 I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
-I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's "enough for me" to get things done.
+I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done.
 
 ## GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
