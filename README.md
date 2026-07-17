@@ -7,6 +7,7 @@
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
 </div>
 
+</br>
 <code>“Learning to code starting from: 2025-09-29”</code>
 
 ## GitHub Stats
