@@ -23,10 +23,6 @@ function install::installer() {
         "Moving: ${GG}${root} ${DG}-> ${GG}${opt}/zeronetsec${N}"
 
     install::getinstall \
-        "command chmod +x ${opt}/zeronetsec/zeronetsec.py" \
-        "Set permission for: ${GG}${opt}/zeronetsec/zeronetsec.py${N}"
-
-    install::getinstall \
         "
             command ln -sf \
                 ${opt}/zeronetsec/zeronetsec.py \
