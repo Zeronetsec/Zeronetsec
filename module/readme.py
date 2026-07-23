@@ -13,11 +13,16 @@ class Readme:
         )
 
         readme_path = os.path.abspath(
-            os.path.join(current_dir, "..", "README.md"),
+            os.path.join(
+                current_dir, "..", "README.md",
+            ),
         )
 
         if not os.path.exists(readme_path):
-            print(f"{Color.R}[!] {Color.N}File: {Color.GG}{readme_path} {Color.N}not found!")
+            print(
+                f"{Color.R}[!] {Color.N}File: {Color.GG}{readme_path} {Color.N}not found!",
+                file=sys.stderr,
+            )
             sys.exit(1)
 
         try:
@@ -26,10 +31,16 @@ class Readme:
                 check=True,
             )
         except FileNotFoundError:
-            print(f"{Color.R}[!] {Color.N}Command: {Color.GG}glow {Color.N}not found!", file=sys.stderr)
+            print(
+                f"{Color.R}[!] {Color.N}Command: {Color.GG}glow {Color.N}not found!",
+                file=sys.stderr,
+            )
             sys.exit(1)
         except subprocess.CalledProcessError:
-            print(f"{Color.R}[!] {Color.N}Failed showing: {Color.GG}README.md{Color.N}", file=sys.stderr)
+            print(
+                f"{Color.R}[!] {Color.N}Failed showing: {Color.GG}README.md{Color.N}",
+                file=sys.stderr,
+            )
             sys.exit(1)
 
 # Copyright (c) 2026 Zeronetsec

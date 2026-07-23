@@ -33,6 +33,7 @@ include : '(
     .install/prepdir
     .install/zinstall
     .install/zparser
+    .install/extern/pip_inpackages
 )'
 
 __BACKUP__=false
@@ -45,6 +46,7 @@ while [[ ${#} -gt 0 ]]; do
 done
 
 install::inpackages
+install::extern::pipInpackages
 install::prepdir
 install::installer
 install::checker

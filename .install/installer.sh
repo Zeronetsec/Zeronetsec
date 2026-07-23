@@ -9,7 +9,6 @@ function install::installer() {
                         zeronetsec
                 " \
                 "Backup: ${GG}${opt}/zeronetsec ${DG}-> ${GG}${opt}/zeronetsec_${bkdate}.bak.zip${N}"
-            cd
         )
     fi
 
