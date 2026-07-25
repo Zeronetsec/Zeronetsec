@@ -13,17 +13,17 @@
     <code>“Learning to code starting from: 2025-09-29”</code>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /> Introduction
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="17" /> Introduction
 I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
 I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done. </br>
 I don't really care about **"industry standards"**. </br>
 <code>“Returning to the essence of a hobby.”</code>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" /> GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
-<img src=".gitaction/github-snake-dark.svg" width="300" />
+<img src=".gitaction/github-snake-tokyonight.svg" width="300" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
 
