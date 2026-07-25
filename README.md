@@ -13,15 +13,17 @@
     <code>“Learning to code starting from: 2025-09-29”</code>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="17" /> Introduction
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybThqNDR5YzZiNHY2bW04aHBvNndtZmNhcThzNDVhY2tvdnRpNzkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aULdtVFZjBPTdTzii2/giphy.gif" width="53" /> Introduction
 I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
 I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done. </br>
 I don't really care about **"industry standards"**. </br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" /> GitHub Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGM4aHBjMW95cDY1Z2lsYWpnYW4zbXA3cnY2MGd5bm9ncm0ydGt1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TO5meWLySRoZg0GX99/giphy.gif" width="58" /> GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycW43MW5yMXcxeWxuZ3M5bTg0NWtlaHZtaHBkYWphcHhvdWY3YXRtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A8YcShT25tyy7yzQof/giphy.gif" width="55" /> Contribution Graph
 <img src=".gitaction/github-snake-tokyonight.svg" width="300" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
