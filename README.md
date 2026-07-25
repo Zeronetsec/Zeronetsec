@@ -1,6 +1,6 @@
 <!-- https://github.com/Zeronetsec/Zeronetsec -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Turning%20coffee%20and%20music%20into%20code.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="85" />
@@ -18,7 +18,6 @@ I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
 I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done. </br>
 I don't really care about **"industry standards"**. </br>
-<code>“Returning to the essence of a hobby.”</code>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" /> GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
