@@ -22,6 +22,7 @@ jobs:
           outputs: |
             .gitaction/github-snake.svg
             .gitaction/github-snake-dark.svg?palette=github-dark
+            .gitaction/github-snake-tokyonight.svg?color_snake=%237aa2f7&color_dots=%231a1b26,%232ac3de,%237dcfff,%237aa2f7,%23bb9af7
 
       - name: Commit & Push
         run: |

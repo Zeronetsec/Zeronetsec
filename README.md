@@ -1,6 +1,6 @@
 <!-- https://github.com/Zeronetsec/Zeronetsec -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Zeronetsec&fontSize=45&fontColor=f0f6fc&fontAlignY=30&animation=twinkling&desc=Turning%20coffee%20and%20music%20into%20code.&descSize=20&descAlignY=50&descColor=7dd3fc&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Turning%20coffee%20and%20music%20into%20code.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="85" />
@@ -25,6 +25,6 @@ I don't really care about **"industry standards"**. </br>
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 <img src=".gitaction/github-snake-dark.svg" width="300" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
 
 <!-- Copyright (c) 2026 Zeronetsec -->
