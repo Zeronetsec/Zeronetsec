@@ -1,6 +1,7 @@
 <!-- https://github.com/Zeronetsec/Zeronetsec -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
+
 <div align="center">
     <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="85" />
     <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&v=1" width="115" />
