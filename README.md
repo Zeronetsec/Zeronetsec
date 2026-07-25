@@ -13,7 +13,7 @@
     <code>“Learning to code starting from: 2025-09-29”</code>
 </div>
 
-## <img src=".gif/1.gif" width="58" /> Introduction
+## <img src=".gif/1.gif" width="60" /> Introduction
 I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
 I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done. </br>
