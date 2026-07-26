@@ -24,7 +24,7 @@ I don't really care about **"industry standards"**. </br>
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Contribution Graph
-<img src="https://raw.githubusercontent.com/Zeronetsec/Zeronetsec/main/.gitaction/github-snake-tokyonight.svg" width="300" />
+<img src=".gitaction/github-snake-tokyonight.svg" width="300" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
 
