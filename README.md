@@ -10,7 +10,7 @@
     </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
     </br></br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="250" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="280" />
 </div>
 
 ## <img src=".gif/1.gif" width="60" /> Introduction
