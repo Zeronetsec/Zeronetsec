@@ -10,7 +10,7 @@
     </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
     </br></br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="275" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="278" />
 </div>
 
 ## <img src=".gif/1.gif" width="60" /> Introduction
@@ -25,6 +25,9 @@ I don't really care about **"industry standards"**. </br>
 
 ## Contribution Graph
 <img src=".gitaction/github-snake-tokyonight.svg" width="300" />
+
+<img src=".gif/2.gif" width="55" />
+<code>“Still running, still learning...”</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
 
