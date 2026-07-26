@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch_depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -30,5 +32,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .gitaction/github-snake.svg .gitaction/github-snake-dark.svg .gitaction/github-snake-tokyonight.svg
           git commit -m "update github snake animation" || exit 0
-          git pull --rebase origin main
-          git push origin main
+          git push
