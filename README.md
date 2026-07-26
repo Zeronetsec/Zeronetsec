@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="85" />
-    <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&v=1" width="115" />
-    <img src="https://img.shields.io/badge/Cybersecurity-Hobby-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="125" />
-    <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&v=1" width="115" />
+    <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="80" />
+    <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&v=1" width="110" />
+    <img src="https://img.shields.io/badge/Cybersecurity-Hobby-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="120" />
+    <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&v=1" width="110" />
     </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
     </br></br>
-    <code>“Learning to code starting from: 2025-09-29”</code>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="250" />
 </div>
 
 ## <img src=".gif/1.gif" width="60" /> Introduction

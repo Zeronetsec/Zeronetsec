@@ -18,7 +18,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
         with:
-          fetch_depth: 0
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
