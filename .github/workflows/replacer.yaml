@@ -32,4 +32,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "auto-replace README snake image path [skip ci]" || exit 0
-          git push
+          git pull origin main --rebase
+          git push origin main
