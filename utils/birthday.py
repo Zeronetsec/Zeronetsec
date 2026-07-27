@@ -9,7 +9,7 @@ class Birthday:
         birth_date = "09-29"
         today = datetime.now().strftime("%m-%d")
         if today == birth_date:
-            print(f"{Color.R}› {Color.N}Happy birthday for {Color.GG}zeronetsec {Color.N}🎉")
+            print(f"{Color.R}› {Color.N}Happy birthday for {Color.GG}Zeronetsec {Color.N}🎉")
             print()
 
 # Copyright (c) 2026 Zeronetsec
