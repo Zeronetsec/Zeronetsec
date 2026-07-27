@@ -7,3 +7,6 @@ export bin="${prefix}/bin"; readonly bin
 export bkdate="$(
     command date '+%Y_%b_%d_%H_%M_%S'
 )"; readonly bkdate
+
+export targetins="zeronetsec"; readonly targetins
+export targetsyml="${targetins}.py"; readonly targetsyml
