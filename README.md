@@ -26,7 +26,9 @@ I don't really care about **"industry standards"**. </br>
 ## Contribution Graph
 <img src=".gitaction/github-snake-tokyonight.svg" width="300" />
 
-<img src=".gif/2.gif" width="80" /> </br>
+<a href="README_REPO_MODE.md">
+    <img src=".gif/2.gif" width="80" /> </br>
+</a>
 <code>“Still running, still learning...”</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />

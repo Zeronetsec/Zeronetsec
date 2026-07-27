@@ -1,0 +1,5 @@
+{
+    "Command": "--raw-readme",
+    "Args": "",
+    "Description": "show zeronetsec readme source code"
+}
