@@ -1,4 +1,4 @@
-name: Auto Replace Path in README
+name: Auto generate UIflag Params
 
 on:
   push:
@@ -23,13 +23,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run Replacer Script
-        run: python3 .gitaction/replacer.py
+      - name: Run Generator Script
+        run: python3 .gitaction/paramgen.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "auto-replace README snake image path [skip ci]" || exit 0
+          git add .gitaction/uiflag_params.flg
+          git commit -m "auto-generate uiflag params [skip ci]" || exit 0
           git push

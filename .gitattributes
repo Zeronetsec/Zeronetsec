@@ -1,4 +1,5 @@
 .install/** linguist-vendored
-.gitaction/replacer.py linguist-vendored
+.gitaction/** linguist-vendored
+
 install.sh linguist-vendored
 uninstall.sh linguist-vendored
