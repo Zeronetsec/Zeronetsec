@@ -2,6 +2,7 @@
 
 import os
 import sys
+from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent
 project_root = ROOT_DIR.parent.parent
