@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import sys
 from pathlib import Path
 
@@ -13,7 +11,6 @@ try:
     content = input_file.read_text(encoding="utf-8")
     output_file.write_text(content, encoding="utf-8")
     print(f"\x1b[0;32m[+] \x1b[0mGenerated: \x1b[0;32m{output_file}\x1b[0m")
-    sys.exit(0)
 
 except FileNotFoundError:
     print(f"\x1b[1;31m[!] \x1b[0mFile: \x1b[0;32m{input_file} \x1b[0mnot found!")
