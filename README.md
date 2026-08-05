@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="80" />
     <img src="https://img.shields.io/badge/Systems-Explorer-blue?style=square&logo=linux&v=1" width="110" />
-    <img src="https://img.shields.io/badge/Cybersecurity-Hobbyist-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="120" height="16" />
+    <img src="https://img.shields.io/badge/Cybersecurity-Hobbyist-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="133" />
     <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&v=1" width="110" />
     </br></br>
     <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
