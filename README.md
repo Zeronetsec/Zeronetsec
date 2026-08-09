@@ -20,7 +20,7 @@ I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that
 I don't really care about **"industry standards"**. </br>
 
 ## GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
+<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Zeronetsec&show_icons=true&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Zeronetsec&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Contribution Graph
