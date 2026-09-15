@@ -6,7 +6,7 @@ class Version:
     @staticmethod
     def execute(*args):
         name = "Zeronetsec"
-        version = "v0.1"
+        version = "v0.1.16092026"
         creator = "Zeronetsec"
         homepage = "https://github.com/Zeronetsec/Zeronetsec"
 
